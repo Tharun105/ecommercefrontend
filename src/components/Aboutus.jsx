@@ -6,6 +6,7 @@ const AboutUs = () => {
   return (
     <div className="about-container">
       <h2>About Our Electronic Store in vijayawada </h2>
+      <h3>Loka kalyan N</h3>
               
                  
                      
