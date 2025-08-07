@@ -5,7 +5,7 @@ import { Link, Outlet } from "react-router-dom";
 const AboutUs = () => {
   return (
     <div className="about-container">
-      <h2>About our Electronic Store in vijayawada </h2>
+      <h2>About our Electronic Store in Tirupati </h2>
                <h3>P Tharun</h3>             
       <p>
         Welcome to our E-Commerce platform, your one-stop shop for the latest and greatest in electronics!
